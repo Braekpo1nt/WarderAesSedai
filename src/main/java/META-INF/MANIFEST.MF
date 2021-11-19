@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\Scott\Documents\Programming\Java\Minecraft\Intellij
+ \WarderAesSedai\src\main\java\me\brakpo1nt\warderaessedai\Main.java
+
